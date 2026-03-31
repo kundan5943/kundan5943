@@ -34,9 +34,9 @@ Tech: React.js, Node.js, Express.js, MongoDB, Gemini AI
 ---
 
 ## 🧠 Coding Profiles
-- LeetCode: https://leetcode.com/yourprofile
+- LeetCode: https://leetcode.com/u/kundanchaudhari01/
 - GitHub: https://github.com/kundan5943
-- LinkedIn: https://linkedin.com/in/yourprofile
+- LinkedIn: https://www.linkedin.com/in/kundan-chaudhari-56a513291
 
 ---
 
